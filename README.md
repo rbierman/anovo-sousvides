@@ -22,17 +22,97 @@ https://cdn-shop.adafruit.com/datasheets/ILI9341.pdf
 
 ## Other hardware
 SRU-09VDC-S-L-C Relay to Heating element
-lm358 Dual opamp.Connected to heating element temp sensor (pin 2)
+lm358 Dual opamp.Connected to heating element temp sensor. Is this some hardware level security to prevent overheating?
 
 
 ## MCU board to power board connector:
 1. Electronics cooling fan +
-2. Heating element temp sensor 
-3. +5 v?
+2. Ground
+3. VCC
 4. Heating element?
 5. Engine through moc3041 opto coupler and BTA16 triac
 6. Flued level detector +
 7. Water Temperature +
 8. Water Temperature -
+
+J7:
+1 & 2: Connected to pin 1 & 2 of J4 (MCU to powerboard)
+
+J6:
+3v3: 3v3
+t: PA10
+r: PA9
+g: Ground
+
+MCU Pinout:
+1.
+2. Speaker (R38 -> Q2)
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. RA4 -> Flash C/S
+21. RA5 -> Flash Clk
+22. RA6 -> Flash DO
+23. RA7 -> Flash DI
+24.
+25.
+26. PB0 -> J4-4
+27. PB1 -> J4-5
+28. PB2 ->
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.PA9 -> J6 -> TX
+43.PA10 -> J6 -> RX
+44.PA11 -> R20 -> usb connector data not connected
+45.PA12 -> R21 -> Usb connector data not connected
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62
+63.
+64.
+
+
+
+
+
 
 
