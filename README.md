@@ -29,7 +29,7 @@ lm358 Dual opamp.Connected to heating element temp sensor. Is this some hardware
 1. Electronics cooling fan +
 2. Ground
 3. VCC
-4. Heating element?
+4. Heating through moc3041 opto coupler and (a triac?)
 5. Engine through moc3041 opto coupler and BTA16 triac
 6. Flued level detector +
 7. Water Temperature +
