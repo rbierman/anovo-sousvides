@@ -16,9 +16,29 @@ TI: TSC2046
 http://www.ti.com/product/TSC2046
 
 ## Display / touchscreen
+2.8Inch
 QR4 5265S01 G1/2 TP28017
-ILI 9341 compatible? This is a guess...
+ILI 9341 or ILI 9325compatible? This is a guess...
+Flatcable connector seems to be compatible with:
+https://www.sparkfun.com/datasheets/LCD/ELT240320ATP.pdf
 https://cdn-shop.adafruit.com/datasheets/ILI9341.pdf
+https://github.com/joseluu/STM32F103-LCD-test
+
+1: db1
+2: db2
+3: db3
+4: db4
+
+
+22:
+23:
+24:
+25:
+26:
+27:
+28:
+33: vcc (3v3)
+34: grnd
 
 ## Other hardware
 SRU-09VDC-S-L-C Relay to Heating element
