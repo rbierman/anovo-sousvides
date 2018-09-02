@@ -130,7 +130,8 @@ MCU Pinout:
 63.
 64.
 
-
+# Reverse enineering resources
+http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
 
 
 
