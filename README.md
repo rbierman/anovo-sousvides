@@ -66,6 +66,7 @@ g: Ground
 
 MCU Pinout:
 |Pin | Description|
+|---|---|
 |1.||
 |2. | Speaker (R38 -> Q2) |
 |3.||
