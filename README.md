@@ -65,6 +65,7 @@ r: PA9
 g: Ground
 
 MCU Pinout:
+
 |Pin | Description|
 |---|---|
 |1.||
