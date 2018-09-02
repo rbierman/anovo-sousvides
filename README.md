@@ -134,17 +134,19 @@ MCU Pinout:
 http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
 
 ## FTDI 2232h
-|FT2232H Pin# | Pin Name | MPSEE Function | Type | Description
-16 | ADBUS0 | SCLK | Output |Serial Clock
-17 | ADBUS1 | DO (MOSI) |Output | Master Out
-18 | ADBUS2 | DI (MISO) |Input | Master In
-19 | ADBUS3 | CS |Output | Chip Select
+|FT2232H Pin# | Pin Name | MPSEE Function | Type | Description |
+|----|----|----|----|----|
+| 16 | ADBUS0 | SCLK | Output |Serial Clock |
+| 17 | ADBUS1 | DO (MOSI) |Output | Master Out |
+| 18 | ADBUS2 | DI (MISO) |Input | Master In |
+| 19 | ADBUS3 | CS |Output | Chip Select |
 
 ## w25q64fw Flash pinout
 |Pin # | Pin Name| |
+|----|------|----|
 | 1 | CS | Chip select input|
 | 2 | DO (IO1) | Data Output|
-| 3 | |
+| 3 | | |
 | 4 | Gnd | Ground|
 | 5 | DI | Data input|
 | 6 | CLK | Serial clock input|
