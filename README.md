@@ -9,7 +9,7 @@ http://www.st.com/resource/en/datasheet/cd00161566.pdf
 
 ## Flash
 Windbond: 25q64fvsig
-https://www.winbond.com/resource-files/w25q64fv%20revq%2006142016.pdf
+https://www.winbond.com/resource-files/w25q64fv%20revs%2007182017.pdf
 
 ## Touch screen controller
 TI: TSC2046
