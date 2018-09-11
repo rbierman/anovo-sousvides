@@ -169,3 +169,5 @@ http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
 | 7 | HOLD / RESET | |
 | 8 | VCC | Power supply |
 
+## Read protection
+https://medium.com/@LargeCardinal/how-to-bypass-debug-disabling-and-crp-on-stm32f103-7116e7abb546
