@@ -171,3 +171,4 @@ http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
 
 ## Read protection
 https://medium.com/@LargeCardinal/how-to-bypass-debug-disabling-and-crp-on-stm32f103-7116e7abb546
+https://gist.github.com/egirault/7b3fe7041e1bf5e2258ed5df7083f14d
