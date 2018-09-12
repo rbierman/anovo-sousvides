@@ -56,6 +56,7 @@ lm358 Dual opamp.Connected to heating element temp sensor. Is this some hardware
 8. Water Temperature -
 
 J2: Debug header
+
 1.
 2. 3v3
 3.
@@ -68,12 +69,14 @@ J2: Debug header
 10.GND
 
 J6:
+
 3v3: 3v3
 t: PA10
 r: PA9
 g: Ground
 
 J7:
+
 1 & 2: Connected to pin 1 & 2 of J4 (MCU to powerboard)
 
 
