@@ -35,6 +35,7 @@ LIBS:stm32f103
 LIBS:W25Q64
 LIBS:elt240320atp
 LIBS:tsc2046
+LIBS:souvide-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -140,16 +141,10 @@ Wire Wire Line
 	2700 2000 2900 2000
 Wire Wire Line
 	2900 2000 2900 2050
-Wire Wire Line
-	3400 4000 3100 4000
-Wire Wire Line
-	3100 4000 3100 3250
-Wire Wire Line
-	3100 3250 1100 3250
-Text GLabel 8250 2700 2    60   Input ~ 0
+Text GLabel 8250 2800 2    60   Input ~ 0
 DB2
 Wire Wire Line
-	7600 2700 8250 2700
+	7600 2800 8250 2800
 Text GLabel 1900 3350 2    60   Input ~ 0
 DB2
 Wire Wire Line
@@ -158,12 +153,6 @@ Text GLabel 8250 2900 2    60   Input ~ 0
 DB3
 Wire Wire Line
 	8250 2900 7600 2900
-Wire Wire Line
-	2950 4900 3400 4900
-Wire Wire Line
-	2950 4900 2950 3550
-Wire Wire Line
-	2950 3550 1100 3550
 Wire Wire Line
 	3400 3800 3300 3800
 Wire Wire Line
@@ -445,4 +434,20 @@ Wire Wire Line
 	2600 3050 2600 2850
 Wire Wire Line
 	2600 2850 2400 2850
+Text GLabel 1900 3250 2    60   Input ~ 0
+DB1
+Wire Wire Line
+	1100 3250 1900 3250
+Text GLabel 8250 2700 2    60   Input ~ 0
+DB1
+Wire Wire Line
+	7600 2700 8250 2700
+Text GLabel 8250 3000 2    60   Input ~ 0
+DB4
+Wire Wire Line
+	7600 3000 8250 3000
+Text GLabel 1900 3550 2    60   Input ~ 0
+DB4
+Wire Wire Line
+	1100 3550 1900 3550
 $EndSCHEMATC
